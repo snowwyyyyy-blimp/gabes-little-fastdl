@@ -1,6 +1,6 @@
 "Sprite"
 {
-    "$spriteorientation" "vp_parallel_upright"
+    "$spriteorientation" "oriented"
     "$spriteorigin" "[ 0.50 0.50 ]"
     "$basetexture" "gabeslittleservericon/gabeslittleicon"
     "$translucent" 1
